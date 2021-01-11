@@ -1,14 +1,11 @@
 # Artem-pizza сервер
 
-Для запуска выполните команду:
-```
-yarn start
-```
+Выполнен деплой на Heroku
 
-По умолчанию сервер запустится по адресу `localhost:3000`
+Cервер доступен по адресу `https://artem-pizza-server.herokuapp.com/`
 
 ## Документация API
 
-Документация доступна по адресу `localhost:3000/api-docs`.
+Документация доступна по адресу `https://artem-pizza-server.herokuapp.com//api-docs`.
 
 Документация сгенерирована при помощи [Swagger](https://swagger.io/)
