@@ -1,0 +1,198 @@
+{
+  "ingredients": [
+    {
+      "id": "RFBVb2cw",
+      "name": "Моцарелла",
+      "slug": "mozzarella",
+      "price": "29",
+      "category": "cheese",
+      "image": "mozzarella.svg",
+      "thumbnail": "mozzarella-thumb.svg"
+    },
+    {
+      "id": "UtKkYthQ",
+      "name": "Чеддер",
+      "slug": "cheddar",
+      "price": "29",
+      "category": "cheese",
+      "image": "cheddar.svg",
+      "thumbnail": "cheddar-thumb.svg"
+    },
+    {
+      "id": "L00ZXEW5",
+      "name": "Дор Блю",
+      "slug": "dor-blue",
+      "price": "29",
+      "category": "cheese",
+      "image": "dor-blue.svg",
+      "thumbnail": "dor-blue-thumb.svg"
+    },
+    {
+      "id": "gWvam8uS",
+      "name": "Помидор",
+      "slug": "tomato",
+      "price": "29",
+      "category": "vegetables",
+      "image": "tomato.svg",
+      "thumbnail": "tomato-thumb.svg"
+    },
+    {
+      "id": "JwZpRbVc",
+      "name": "Грибы",
+      "slug": "mashrooms",
+      "price": "29",
+      "category": "vegetables",
+      "image": "mashrooms.svg",
+      "thumbnail": "mashrooms-thumb.svg"
+    },
+    {
+      "id": "aFq7lI6f",
+      "name": "Перец",
+      "slug": "pepper",
+      "price": "29",
+      "category": "vegetables",
+      "image": "pepper.svg",
+      "thumbnail": "pepper-thumb.svg"
+    },
+    {
+      "id": "91GuGJZk",
+      "name": "Ананасы",
+      "slug": "pineapple",
+      "price": "29",
+      "category": "vegetables",
+      "image": "pineapple.svg",
+      "thumbnail": "pineapple-thumb.svg"
+    },
+    {
+      "id": "Gr99mbSa",
+      "name": "Оливки",
+      "slug": "olives",
+      "price": "29",
+      "category": "vegetables",
+      "image": "olives.svg",
+      "thumbnail": "olives-thumb.svg"
+    },
+    {
+      "id": "Mgkcc11Y",
+      "name": "Лук",
+      "slug": "onion",
+      "price": "29",
+      "category": "vegetables",
+      "image": "onion.svg",
+      "thumbnail": "onion-thumb.svg"
+    },
+    {
+      "id": "JEiNa4ZA",
+      "name": "Брокколи",
+      "slug": "broccoli",
+      "price": "29",
+      "category": "vegetables",
+      "image": "broccoli.svg",
+      "thumbnail": "broccoli-thumb.svg"
+    },
+    {
+      "id": "gRcVbikk",
+      "name": "Бекон",
+      "slug": "bacon",
+      "price": "29",
+      "category": "meat",
+      "image": "bacon.svg",
+      "thumbnail": "bacon-thumb.svg"
+    },
+    {
+      "id": "vgtoINMR",
+      "name": "Пепперони",
+      "slug": "pepperoni",
+      "price": "29",
+      "category": "meat",
+      "image": "pepperoni.svg",
+      "thumbnail": "pepperoni-thumb.svg"
+    },
+    {
+      "id": "SyMC20mS",
+      "name": "Ветчина",
+      "slug": "ham",
+      "price": "29",
+      "category": "meat",
+      "image": "ham.svg",
+      "thumbnail": "ham-thumb.svg"
+    },
+    {
+      "id": "Q_-wvUQD",
+      "name": "Курица",
+      "slug": "chicken",
+      "price": "29",
+      "category": "meat",
+      "image": "chicken.svg",
+      "thumbnail": "chicken-thumb.svg"
+    },
+    {
+      "id": "ghRbYlsp",
+      "name": "Салями",
+      "slug": "salami",
+      "price": "29",
+      "category": "meat",
+      "image": "salami.svg",
+      "thumbnail": "salami-thumb.svg"
+    },
+    {
+      "id": "0j4gxUCR",
+      "name": "Базилик",
+      "slug": "basil",
+      "price": "29",
+      "category": "vegetables",
+      "image": "basil.svg",
+      "thumbnail": "basil-thumb.svg"
+    },
+    {
+      "id": "7AaZUSS3",
+      "name": "Томатный",
+      "slug": "tomatosauce",
+      "price": "0",
+      "category": "sauces"
+    },
+    {
+      "id": "7AahySs3",
+      "name": "Майонез",
+      "slug": "mayo",
+      "price": "0",
+      "category": "sauces"
+    },
+    {
+      "id": "5GfsdkK4",
+      "name": "Острый",
+      "slug": "spicy",
+      "price": "0",
+      "category": "sauces"
+    },
+    {
+      "id": "67JffsGg",
+      "name": "Грибной",
+      "slug": "mash",
+      "price": "0",
+      "category": "sauces"
+    },
+    {
+      "id": "sdGrwoO5",
+      "name": "Чесночный",
+      "slug": "garlic",
+      "price": "0",
+      "category": "sauces"
+    },
+    {
+      "id": "P5wd8gZ",
+      "name": "Кисло-сладкий",
+      "slug": "sweetandsour",
+      "price": "0",
+      "category": "sauces"
+    },
+    {
+      "id": "MhidD7qR",
+      "name": "Горчичный",
+      "slug": "mustard",
+      "price": "0",
+      "category": "sauces"
+    }
+  ],
+  "orders": []
+}
