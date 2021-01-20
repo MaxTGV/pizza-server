@@ -136,15 +136,6 @@
       "thumbnail": "salami-thumb.svg"
     },
     {
-      "id": "0j4gxUCR",
-      "name": "Базилик",
-      "slug": "basil",
-      "price": "29",
-      "category": "vegetables",
-      "image": "basil.svg",
-      "thumbnail": "basil-thumb.svg"
-    },
-    {
       "id": "7AaZUSS3",
       "name": "Томатный",
       "slug": "tomatosauce",
@@ -194,5 +185,6 @@
       "category": "sauces"
     }
   ],
-  "orders": []
+  "orders": [],
+  "authorization": []
 }
