@@ -21,9 +21,11 @@ const idlength = 8;
  *          - size
  *          - dough
  *          - sauces
+ *          - price
  *          - address
  *          - name
  *          - card_number
+ *          - payment
  *        properties:
  *          id:
  *            type: string
@@ -42,6 +44,9 @@ const idlength = 8;
  *            type: array
  *            items: string
  *            description: Массив с названиями соусов
+ *          price:
+ *            type: string
+ *            description: Цена
  *          address:
  *            type: string
  *            description: Адрес заказа
@@ -51,6 +56,9 @@ const idlength = 8;
  *          card_number:
  *            type: string
  *            description: Номер карты
+ *          payment:
+ *            type: string
+ *            description: Платежная система
  *        example:
  *           id: d5fE_asz
  *           ingredients:
@@ -61,9 +69,11 @@ const idlength = 8;
  *             - mayo
  *           size: 30
  *           dough: thick
+ *           price: 319
  *           name: Ivan Ivanov
- *           card_number: 0000 0000 0000 0000
+ *           card_number: 4444 4444 4444 4444
  *           address: Sesame Street
+ *           payment: visa
  */
 
 /**
@@ -119,8 +129,10 @@ router.post("/", (req, res) => {
       size,
       dough,
       sauces,
+      price,
       address,
-      card_number
+      card_number,
+      payment
     } = req.body;
 
     const newOrder = {
@@ -128,10 +140,12 @@ router.post("/", (req, res) => {
       name,
       address,
       card_number,
+      payment,
       size,
       dough,
       sauces,
-      ingredients
+      ingredients,
+      price
     };
 
     req.app.db.get("orders").push(newOrder).write();
